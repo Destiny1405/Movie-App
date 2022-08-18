@@ -1,6 +1,6 @@
 ## Movie App
 
-### User Stories
+### Features
 
 - [x] Display details of movie
 - [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
