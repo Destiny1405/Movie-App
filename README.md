@@ -1,11 +1,11 @@
-## Movie App
+# Movie App
 
-### Features
+## Features
 
 - [x] Display details of movie
 - [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
 
-### App Walkthough GIF
+## App Walkthough GIF
 
 <img src="Walkthrough.gif" width=250><br>
 
